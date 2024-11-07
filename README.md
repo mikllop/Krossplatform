@@ -40,6 +40,8 @@ Linux:
 ![image](https://github.com/user-attachments/assets/495429b9-ecaa-4b58-b024-48b3dde5fbf6)
 
 Web:
+![image](https://github.com/user-attachments/assets/728f5753-4f3b-45a8-92f0-47c31b9c7a55)
+![image](https://github.com/user-attachments/assets/0383723b-3a36-49b2-9ea5-34dc884a982c)
 
 
 
