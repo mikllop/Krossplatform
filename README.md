@@ -32,11 +32,12 @@ mingw32-make web
 Для демонстрации работы портированной игры прилагаются примеры запуска на различных платформах:
 
 Windows:
-
+![image](https://github.com/user-attachments/assets/8f8f31e9-d0ad-4f7f-a76f-dd18e49fa495)
+![image](https://github.com/user-attachments/assets/57ad75ef-310e-4664-9541-b45e7b9518d1)
 
 Linux:
-
-
+![image](https://github.com/user-attachments/assets/c3513f53-aa8f-46e8-a96f-2a22b31f32e9)
+![image](https://github.com/user-attachments/assets/495429b9-ecaa-4b58-b024-48b3dde5fbf6)
 
 Web:
 
@@ -45,6 +46,7 @@ Web:
 
 # Автоматическое тестирование
 
+![image](https://github.com/user-attachments/assets/74c8b7d9-f4e8-4f84-8259-8bc7501a8000)
 
 
 # История разработки
